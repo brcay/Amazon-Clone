@@ -1,6 +1,6 @@
 <h1>Pets-Food</h1>
 
-About everything you need to care for your pets
+Amazon Clone
 
 Html and Css
 
